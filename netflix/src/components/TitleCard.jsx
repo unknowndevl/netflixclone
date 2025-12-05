@@ -56,7 +56,7 @@ const Titlecard = ({ title, category }) => {
                                 <p className=" relative bottom-10 truncate">{card.original_title}</p>
                             </Link>
                         );
-                    }) : <p className=" pl-20 text-24 text-amber-300" >unable to fetch data🤦‍♀️ </p>}
+                    }) : <p className=" pl-20 text-34 text-amber-300" >unable to fetch data tmdb api ban in india please use vpn🤦‍♀️ </p>}
             </div>
         </div>
     );
